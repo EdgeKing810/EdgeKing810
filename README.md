@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Kishan -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨💻 &nbsp;About Me
 
 <p align="center">
 I love to create games, develop websites and make bad jokes.
@@ -40,7 +40,7 @@ You can find most of my personal projects on <a href="https://hub.kinesis.games"
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=jekyll)\
+![Jekyll](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=jekyll)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
