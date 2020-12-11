@@ -51,7 +51,7 @@ You can find most of my personal projects on <a href="https://hub.kinesis.games"
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤓 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://hub.kinesis.games"><img src="https://img.shields.io/badge/-hub.kinesis.games-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
