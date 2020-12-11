@@ -19,7 +19,7 @@ You can find most of my personal projects on <a href="https://hub.kinesis.games"
 ✉️  &nbsp;You can shoot me an email at [kishan@kinesis.games](mailto:kishan@kinesis.games)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://portfolio.kinesis.games) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/EdgeKing810/EdgeKing810/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/EdgeKing810/EdgeKing810/master/assets/Night-Coding.gif" align="right"/>&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
 
