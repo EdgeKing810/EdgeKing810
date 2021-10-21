@@ -10,7 +10,7 @@ I love to create games, develop websites and make bad jokes.
 When I'm not coding (and if I haven't broken my bootloader), you'll either find me customizing my terminal or desktop environment, deploying new stuff on my server or having fun with my cousins.
 <br>
 I've been a <a href="https://www.apress.com/gp/book/9781484260012">Book Author</a> and both a <a href="https://codein.withgoogle.com/">Google Code-in</a> Finalist and Mentor.
-I'm currently occupying a System Administrator / DevOps position at <a href="https://esokia.com/">Esokia</a> and I work on my personal projects such as
+I'm currently occupying a DevOps Engineer position at <a href="https://www.redboxdigital.com/">Redbox Digital</a> and I work on my personal projects such as
 progressive web apps and robust APIs during weekends.
 <br>
 You can find most of my personal projects <a href="https://me.konnect.dev">here</a>, as well as the upcoming Social Media platform I'm dropping soon; <a href="https://alpha.konnect.dev">Konnect</a>.
