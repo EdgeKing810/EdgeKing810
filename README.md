@@ -10,7 +10,7 @@ I love to create games, develop websites and make bad jokes.
 When I'm not coding (and if I haven't broken my bootloader), you'll either find me customizing my terminal or desktop environment, deploying new stuff on my server or having fun with my cousins.
 <br>
 I've been a <a href="https://www.apress.com/gp/book/9781484260012">Book Author</a> and both a <a href="https://codein.withgoogle.com/">Google Code-in</a> Finalist and Mentor.
-I'm currently occupying a DevOps Engineer position at <a href="https://www.redboxdigital.com/">Redbox Digital</a> and I work on my personal projects such as
+I'm currently occupying a Senior DevOps Engineer position at <a href="https://www.sdworx.co.uk/mauritius">SD Worx Mauritius</a> and I work on my personal projects such as
 progressive web apps and robust APIs during weekends.
 <br>
 You can find most of my personal projects <a href="https://me.konnect.dev">here</a>, as well as the upcoming Social Media platform I'm dropping soon; <a href="https://alpha.konnect.dev">Konnect</a>.
@@ -56,7 +56,7 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ### 🤓 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://hub.kinesis.games"><img src="https://img.shields.io/badge/-hub.kinesis.games-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://me.konnect.dev"><img src="https://img.shields.io/badge/-me.konnect.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:kishan@konnect.dev"><img src="https://img.shields.io/badge/-kishan@konnect.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kishan_takoordyal"><img src="https://img.shields.io/badge/-@kishan_takoordyal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/com.KinesisGames.KishanTakoordyal"><img src="https://img.shields.io/badge/-Kishan%20Takoordyal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
