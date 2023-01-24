@@ -38,11 +38,14 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)\
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=jekyll)&nbsp;
+![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -59,7 +62,7 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 <a href="https://me.konnect.dev"><img src="https://img.shields.io/badge/-me.konnect.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:kishan@konnect.dev"><img src="https://img.shields.io/badge/-kishan@konnect.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kishan_takoordyal"><img src="https://img.shields.io/badge/-@kishan_takoordyal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/com.KinesisGames.KishanTakoordyal"><img src="https://img.shields.io/badge/-Kishan%20Takoordyal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/Kishan.Takoordyal"><img src="https://img.shields.io/badge/-Kishan%20Takoordyal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/EdgeKing810"><img src="https://img.shields.io/badge/-@EdgeKing810-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kishan-takoordyal-99816b180"><img src="https://img.shields.io/badge/-Kishan%20Takoordyal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
