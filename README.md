@@ -29,7 +29,18 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![C# UnityScript](https://img.shields.io/badge/-UnityScript-05122A?style=flat&logo=csharp)&nbsp;
+![C# UnityScript](https://img.shields.io/badge/-UnityScript-05122A?style=flat&logo=csharp)\
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)&nbsp;
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)&nbsp;
+![FastifyJS](https://img.shields.io/badge/-FastifyJS-05122A?style=flat&logo=fastify)&nbsp;
+![Deno](https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno)&nbsp;
+![Rocket](https://img.shields.io/badge/-Rocket-05122A?style=flat&logo=rocket)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
+![Jekyll](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=jekyll)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
