@@ -77,6 +77,13 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-05122A?style=flat&logo=bitwarden)&nbsp;
 ![Nextcloud](https://img.shields.io/badge/-Nextcloud-05122A?style=flat&logo=nextcloud)&nbsp;
 
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;
+![Logstash](https://img.shields.io/badge/-Logstash-05122A?style=flat&logo=logstash)&nbsp;
+![Loki](https://img.shields.io/badge/-Loki-05122A?style=flat&logo=loki)&nbsp;
+![Icinga](https://img.shields.io/badge/-Icinga-05122A?style=flat&logo=icinga)&nbsp;
+
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=ffffff)&nbsp;
