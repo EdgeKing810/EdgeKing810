@@ -29,7 +29,7 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![C# (UnityScript)](https://img.shields.io/badge/-C#-05122A?style=flat&logo=csharp)&nbsp;
+![C# UnityScript](https://img.shields.io/badge/-C#-05122A?style=flat&logo=csharp)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
