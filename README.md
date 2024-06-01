@@ -57,8 +57,15 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
-![Traefik](https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=traefik)&nbsp;
+![Traefik](https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=traefikproxy)&nbsp;
 ![HAProxy](https://img.shields.io/badge/-HAProxy-05122A?style=flat&logo=haproxy)&nbsp;
+
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)&nbsp;
+![Magento Cloud](https://img.shields.io/badge/-Magento_Cloud-05122A?style=flat&logo=magento)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
