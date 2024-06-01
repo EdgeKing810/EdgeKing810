@@ -64,8 +64,18 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)&nbsp;
-![Magento Cloud](https://img.shields.io/badge/-Magento_Cloud-05122A?style=flat&logo=magento)&nbsp;
+![Magento Cloud](https://img.shields.io/badge/-Magento_Cloud-05122A?style=flat&logo=microsoftazure)&nbsp;
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
+
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Nomad](https://img.shields.io/badge/-Nomad-05122A?style=flat&logo=nomad)&nbsp;
+![Vault](https://img.shields.io/badge/-Vault-05122A?style=flat&logo=vault)&nbsp;
+![Consul](https://img.shields.io/badge/-Consul-05122A?style=flat&logo=consul)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Bitwarden](https://img.shields.io/badge/-Bitwarden-05122A?style=flat&logo=bitwarden)&nbsp;
+![Nextcloud](https://img.shields.io/badge/-Nextcloud-05122A?style=flat&logo=nextcloud)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
