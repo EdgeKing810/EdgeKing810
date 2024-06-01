@@ -55,6 +55,11 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
 
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![Traefik](https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=traefik)&nbsp;
+![HAProxy](https://img.shields.io/badge/-HAProxy-05122A?style=flat&logo=haproxy)&nbsp;
+
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=ffffff)&nbsp;
