@@ -84,25 +84,9 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![Loki](https://img.shields.io/badge/-Loki-05122A?style=flat&logo=loki)&nbsp;
 ![Icinga](https://img.shields.io/badge/-Icinga-05122A?style=flat&logo=icinga)&nbsp;
 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=ffffff)&nbsp;
-![Deno](https://img.shields.io/badge/-Deno-05122A?style=flat&logo=Deno)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)\
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
+![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godot)&nbsp;
+![Bevy](https://img.shields.io/badge/-Bevy-05122A?style=flat&logo=bevy)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
