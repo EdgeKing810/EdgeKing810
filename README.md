@@ -85,7 +85,7 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![Icinga](https://img.shields.io/badge/-Icinga-05122A?style=flat&logo=icinga)&nbsp;
 
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godot)&nbsp;
+![Godot](https://img.shields.io/badge/-Godot-05122A?style=flat&logo=godotengine)&nbsp;
 ![Bevy](https://img.shields.io/badge/-Bevy-05122A?style=flat&logo=bevy)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
