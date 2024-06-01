@@ -41,11 +41,19 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
 ![Jekyll](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=jekyll)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+![Cordova](https://img.shields.io/badge/-Cordova-05122A?style=flat&logo=cordova)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+![Gitea](https://img.shields.io/badge/-Gitea-05122A?style=flat&logo=gitea)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-05122A?style=flat&logo=azuredevops)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
