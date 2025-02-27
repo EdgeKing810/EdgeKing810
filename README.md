@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img alt="Night Coding" src="./assets/Hand%20Wave.gif" style="width: 4rem;" />
-  <h2>Hey there! I'm Kishan</h2>
-</div>
+<h2>Hey there! I'm Kishan 🤓</h2>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="60" align="right" />
 
 ### 👨💻 &nbsp;About Me
 
@@ -9,7 +8,7 @@
 I love to create games, develop websites and make bad jokes.
 <br>
 When I'm not coding (and if I haven't broken my bootloader), you'll either find me customizing my terminal or desktop environment, deploying new stuff on my server or having fun with my cousins.
-<br>
+<br><br>
 I've been a <a href="https://www.apress.com/gp/book/9781484260012">Book Author</a> and both a <a href="https://codein.withgoogle.com/">Google Code-in</a> Finalist and Mentor.
 I'm currently occupying a Senior DevOps Engineer position at <a href="https://www.sdworx.co.uk/mauritius">SD Worx Mauritius</a> and I work on my personal projects such as
 progressive web apps and robust APIs during weekends.
@@ -18,7 +17,7 @@ You can find most of my personal projects <a href="https://me.konnect.dev">here<
 </p>
 
 ✉️  &nbsp;You can shoot me an email at [kishan@konnect.dev](mailto:kishan@konnect.dev)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://portfolio.kinesis.games) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://cv.konnect.dev) or my [Portfolio](https://portfolio.kinesis.games) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/EdgeKing810/EdgeKing810/master/assets/Night-Coding.gif" align="right"/>&nbsp;
 
