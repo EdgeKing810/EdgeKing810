@@ -1,4 +1,7 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' style="margin-top: 2rem;" align="left"/><h2>Hey there! I'm Kishan</h2>
+<div style="display: flex; align-items: center;">
+  <img alt="Night Coding" src="./assets/Hand%20Wave.gif"/>
+  <h2>Hey there! I'm Kishan</h2>
+</div>
 
 ### 👨💻 &nbsp;About Me
 
