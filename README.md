@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img alt="Night Coding" src="./assets/Hand%20Wave.gif" style="width: 1rem;" />
+  <img alt="Night Coding" src="./assets/Hand%20Wave.gif" style="width: 10rem;" />
   <h2>Hey there! I'm Kishan</h2>
 </div>
 
