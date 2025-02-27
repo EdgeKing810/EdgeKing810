@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' style="margin-top: 1rem;" align="left"/><h2>Hey there! I'm Kishan</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' style="margin-top: 2rem;" align="left"/><h2>Hey there! I'm Kishan</h2>
 
 ### 👨💻 &nbsp;About Me
 
